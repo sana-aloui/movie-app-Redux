@@ -1,0 +1,24 @@
+.movie-app {
+	/* max-width: 1000px; */
+	margin: 0 auto;
+	font-family: sans-serif;
+
+}
+
+
+
+.movie-app-main {
+	margin-top: 20px;
+	padding: 10px;
+    
+}
+
+
+.searchBar--container {
+    width: 100%;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #901818;
+  }
